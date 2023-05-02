@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zabirrrrrr
+- 👀 I’m interested in learning Data science
+- 🌱 I’m currently learning frontend developer
+- 💞️ I’m looking to collaborate on linkdin
